@@ -1,6 +1,6 @@
 # NanoLLMOps 任务清单
 
-更新时间：2026-06-02
+更新时间：2026-10-07
 
 ## 使用规则
 
@@ -48,3 +48,4 @@ docs/tasks/<任务编号>/logs/YYYY-MM-DD-HHmm.md
 | `P1-005` | `PHASE-01` | `DONE` | converted 目录接入 vLLM 风格 runtime | 已完成 CPU runtime 推理和回归测试 | `docs/tasks/P1-005/spec.md` |
 | `DOC-001` | `DOCS` | `DONE` | 初步拆分规划与日志 | 已建立独立规划入口和日志目录 | `docs/tasks/DOC-001/spec.md` |
 | `DOC-002` | `DOCS` | `DONE` | 建立严格任务编号驱动文档体系 | 已完成 PRD、规划、任务、阶段、手册、ADR 和归档分层 | `docs/tasks/DOC-002/spec.md` |
+| `DOC-003` | `DOCS` | `DONE` | 修正专利文档东亚语言与字体映射 | 已将默认及主题东亚语言统一为 `zh-CN`，并验证正文、编号、页脚和图片未改变 | `docs/tasks/DOC-003/spec.md` |
